@@ -5,7 +5,7 @@
   "author": "guiyep",
   "license": "MIT",
   "repository": "guiyep/react-select-virtualized",
-  "main": "dist/index.min.js",
+  "main": "src/index.js",
   "engines": {
     "node": ">=9",
     "npm": ">=6"
